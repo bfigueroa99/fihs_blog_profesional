@@ -70,9 +70,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-# Blog de Juan Eduardo Figueroa Valdes
+# Blog Profesional
 
-Este es un proyecto de React consistira en un blog de Juan Eduardo Figueroa Valdes en donde se mostraran sus experiencias, redes sociales y proyectos de los que esta vinculado para que las personas puedan conocerlo mejor. Y asi pueda tener una mejor oportunidad de trabajo.
+Este es un proyecto de React consistira en un blog Profesional en donde se mostraran sus experiencias, redes sociales y proyectos de los que esta vinculado para que las personas puedan conocerlo mejor. Y asi pueda tener una mejor oportunidad de trabajo.
 
 ## Informacion General
 
